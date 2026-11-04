@@ -1,0 +1,19 @@
+Analise por tipo de operacao mostra inadimplencia concentrada em alguns produtos
+* Talvez seria interessante testar os modelos por tipo de operacao
+
+As taxas de juros sao muito proximas umas das outras mesmo considerando riscos diferentes
+
+
+person_age = "Idade"
+person_income = "Renda"
+person_home_ownership = "Moradia"
+person_emp_length = "Prazo"
+loan_intent = "Tipo"
+loan_grade = "Classificação de Risco"
+loan_amnt = "Valor"
+loan_int_rate = "Taxa"
+loan_status = "Status"
+loan_percent_income = "Comprometimento"
+cb_person_default_on_file = "Restritivos"
+cb_person_cred_hist_length = "Histórico de Crédito"
+
