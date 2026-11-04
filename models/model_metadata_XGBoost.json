@@ -1,0 +1,7 @@
+{
+    "model_name": "XGBoost",
+    "target": "loan_status",
+    "threshold": 0.5,
+    "selection_metric": "CV_PR_AUC",
+    "random_state": 42
+}
