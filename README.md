@@ -110,8 +110,8 @@ The best performing model achieved the following evaluation metrics:
 * Training_Time_Seconds: 4.65
 
 Consfusion Matrix
-* Non Defaulters (TN = 5058/ FN = 37)
-* Defaulters (FP = 390/ TP = 1032)
+* Non Defaulters (TN = 5058/ FP = 37)
+* Defaulters (FN = 390/ TP = 1032)
 
 # Results and Conclusions
 Best-performing model, limitations and business implications.
